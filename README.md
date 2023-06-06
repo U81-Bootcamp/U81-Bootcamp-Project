@@ -11,7 +11,9 @@ Onur Şentürk	- Developer
 # Ürün Açıklaması
 
 # Ürün Özellikleri
-
+* Made in Unity 3D
+* Multiplayer Support
+* 
 # Hedef Kitle
 
 # Ürüm Backlog
