@@ -45,4 +45,4 @@ Zıplama özelliği.
 Diğer oyuncuları vurmak için Roket atma özelliği.
 * Sprint Review: Oyunun ana mekanikleri oluşturulmuş, Multiplayer, Reklam ve Oyuncu Verisi toplama özelliklerine başlanmıştır. Oyuna doğru görsel assetler ve sesler eklenmesi için araştırmalar yapılmıştır. Oyunun hikayesi ve geçtiği çevre hakkında fikirler oluşturulmuştur. Üyelerin okul finalleri nedeniyle bu sprintte planlanan 100 puan yerine 60 puana ulaşılabilmiştir. Bu farkın Sprint 2 ve Sprint 3'de kapatılması için ekstra puanlar eklenmesine karar verilmiştir.
 * Sprint Retrospective:
-- Üyelerin 
+   - Üyelerin 
