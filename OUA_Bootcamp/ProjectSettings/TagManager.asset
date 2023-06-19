@@ -5,16 +5,21 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstacle
+  - RocketPowerUp
+  - Rocket
+  - IcePowerUp
+  - Ice
+  - SheildPowerUp
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Obstacle
   - Ground
-  - 
+  - Wall
   - 
   - 
   - 
