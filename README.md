@@ -13,7 +13,7 @@ Onur Şentürk	- Developer
 ## Ürün Özellikleri
 * Unity 3D ile yapılmıştır.
 * Multiplayer desteği vardır.
-* Başka oyuncular ile yarışlarabilmeye olanak sağlar.
+* Başka oyuncular ile yarışabilmeye olanak sağlar.
 * Singleplayer modu.
 * Oyun skoru tutabilme.
 * Mobil desteği. (Planlanıyor)
