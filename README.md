@@ -25,4 +25,7 @@ Onur Şentürk	- Developer
 ## Ürün Backlog
 [Miro Back Log](https://miro.com/app/board/uXjVMBXI-IA=/)
 # Sprint 1
-
+* Sprint içinde her User Story 20 puan olarak hesaplanmıştır.
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint'in için 100 puanın yeterli olduğuna karar verildi.
+* Günlük Scrum: Günlük Scrum konuşmaları Discord üzerinden gerçekleştirildi. [Günlük Scrum Konuşmaları]()
