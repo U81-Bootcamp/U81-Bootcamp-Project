@@ -35,7 +35,7 @@ Onur Şentürk	- Developer
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint%201%20Burndown%20chart.png)
 ## Oyun Ekran Görüntüleri
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2001.png)
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2002.png)
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2002.png)\
 Soldan sağa: Arkaya atılan buz, Koruma Kalkanı ve İleriye atılan roket güçlendirmeleri.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2003.png)
 
