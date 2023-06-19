@@ -28,4 +28,4 @@ Onur Şentürk	- Developer
 * Sprint içinde her User Story 20 puan olarak hesaplanmıştır.
 * Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint'in için 100 puanın yeterli olduğuna karar verildi.
-* Günlük Scrum: Günlük Scrum konuşmaları Discord üzerinden gerçekleştirildi. [Günlük Scrum Konuşmaları]()
+* Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi. Sesli olarak gerçekleştirilmeyen günler için gene Discord kanalı üzerinden konuşuldu. [Günlük Scrum Konuşmaları]()
