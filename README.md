@@ -23,7 +23,8 @@ Onur Şentürk	- Developer
 * Mobil oyun oyuncuları.
 * Yarış oyunu oyuncuları.
 ## Ürün Backlog
-[Miro Backlog Board](https://miro.com/app/board/uXjVMBXI-IA=/)\
+[Miro Backlog Board](https://miro.com/app/board/uXjVMBXI-IA=/)
+
 ---
 # Sprint 1
 * Sprint içinde her User Story 20 puan olarak hesaplanmıştır.
