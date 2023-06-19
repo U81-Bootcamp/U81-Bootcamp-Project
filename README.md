@@ -37,7 +37,8 @@ Onur Şentürk	- Developer
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2001.png)
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2002.png)\
 Soldan sağa: Arkaya atılan buz, Koruma Kalkanı ve İleriye atılan roket güçlendirmeleri.
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2003.png)
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2003.png)\
+Rastgele oluşturulan engellerden oluşan harita.
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2004.png)\
 
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2004.png)
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2005.png)
