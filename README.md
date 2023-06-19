@@ -23,4 +23,4 @@ Onur Şentürk	- Developer
 * Mobil oyun oyuncuları.
 * Yarış oyunu oyuncuları.
 # Ürüm Backlog
-[Miro Back Log]([https://pages.github.com/](https://miro.com/app/board/uXjVMBXI-IA=/)https://miro.com/app/board/uXjVMBXI-IA=/).
+[Miro Back Log](https://miro.com/app/board/uXjVMBXI-IA=/)
