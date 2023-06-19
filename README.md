@@ -29,4 +29,5 @@ Onur Şentürk	- Developer
 * Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint'in için 100 puanın yeterli olduğuna karar verildi.
 * Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi. Sesli olarak gerçekleştirilmeyen günler için gene Discord kanalı üzerinden konuşuldu. [Günlük Scrum Konuşmaları](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%20Daily%20talks.pdf)
+* ![Alt text](/ProjectManagement/Sprint1/Sprint 1 Board.png)
 * 
