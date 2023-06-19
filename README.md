@@ -22,5 +22,5 @@ Onur Şentürk	- Developer
 * Multiplayer oyun oynayan arkadaş grupları.
 * Mobil oyun oyuncuları.
 * Yarış oyunu oyuncuları.
-# Ürüm Backlog
+# Ürün Backlog
 [Miro Back Log](https://miro.com/app/board/uXjVMBXI-IA=/)
