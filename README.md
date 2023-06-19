@@ -36,7 +36,7 @@ Onur Şentürk	- Developer
 ## Oyun Ekran Görüntüleri
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2001.png)
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2002.png)\
-Soldan sağa: Arkaya atılan buz, Koruma Kalkanı ve İleriye atılan roket güçlendirmeleri.
+Soldan sağa: Arkaya atılan Buz, Koruma Kalkanı ve İleriye atılan Roket güçlendirmeleri.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2003.png)\
 Rastgele oluşturulan engellerden oluşan harita.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2004.png)\
@@ -45,4 +45,4 @@ Zıplama özelliği.
 Diğer oyuncuları vurmak için Roket atma özelliği.
 * Sprint Review: Oyunun ana mekanikleri oluşturulmuş, Multiplayer, Reklam ve Oyuncu Verisi toplama özelliklerine başlanmıştır. Oyuna doğru görsel assetler ve sesler eklenmesi için araştırmalar yapılmıştır. Oyunun hikayesi ve geçtiği çevre hakkında fikirler oluşturulmuştur. Üyelerin okul finalleri nedeniyle bu sprintte planlanan 100 puan yerine 60 puana ulaşılabilmiştir. Bu farkın Sprint 2 ve Sprint 3'de kapatılması için ekstra puanlar eklenmesine karar verilmiştir. Katılımcılar: Elif Cebeci, Mehmet SAVRAN, Ahmet Özdemir Akçay, Hakkı Tumar, Onur Şentürk.
 * Sprint Retrospective:
-   - Sprint 1'in üyelerin finallerinden dolayı aksamasından dolayı gelecek sprintlerde daha fazla aktif olması gerektiği kararlaştırılmıştır.
+   - Sprint 1'in üyelerin finallerinden dolayı aksaması nedeniyle gelecek Sprint 2 ve Sprint 3'de daha fazla aktif olması gerektiği kararlaştırılmıştır.
