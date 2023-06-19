@@ -10,7 +10,7 @@ Onur Şentürk	- Developer
 -Multiplayer Race/Endless runner Game- (İsim üstünde planlanılıyor)
 ## Ürün Açıklaması
 -Multiplayer Race/Endless runner Game- oyunculara popüler Endless Runner ve Kart racing türleriinin birleştirerek multiplayer bir deneyim ve eğlence sunmak için geliştirilmekte olan bir oyundur. Oyunda oyuncular rastgele oluşturulan engellerden kaçarken, diğer oyuncuların kullanabileceği Roket ya da Buz gibi silahlara dikkat etmesi gerekmektedir. Bir engele çarpıldığında ya da diğer oyuncular tarafından vurulduğunda oyuncular sıralamada arkaya düşerler. Birinci konumda olan oyuncunun kazanacağı bir kazanma mekanizması düşünülmüştür.
-# Ürün Özellikleri
+## Ürün Özellikleri
 * Unity 3D ile yapılmıştır.
 * Multiplayer desteği vardır.
 * Başka oyuncular ile yarışlarabilmeye olanak sağlar.
