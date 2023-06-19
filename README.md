@@ -1,5 +1,5 @@
 # U81-Bootcamp-Project
-Game Project for Oyun ve Uygulama Akademisi Bootcamp 2023
+Oyun ve Uygulama Akademisi Bootcamp 2023 için geliştirilen oyun projesi.
 ## Takım U-81
 Elif Cebeci	- Product Owner\
 Mehmet SAVRAN	- Scrum Master\
