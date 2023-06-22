@@ -45,6 +45,9 @@ Rastgele oluşturulan engellerden oluşan harita.
 Zıplama özelliği.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%2005.png)\
 Diğer oyuncuları vurmak için Roket atma özelliği.
+* Sprint Notları:
+   - Sprint 1 boyunca grup üyelerinin uzaktan ekip olarak çalışma becerilerinin gelişmiş olduğu gözlemlenmektedir.
+   - Sprint 1'de zamanın büyük çoğunluğu oyunun genel mekaniklerini oluşturmak için harcanmıştır.
 * Sprint Review: Oyunun ana mekanikleri oluşturulmuş, Multiplayer, Reklam ve Oyuncu Verisi toplama özelliklerine başlanmıştır. Oyuna doğru görsel assetler ve sesler eklenmesi için araştırmalar yapılmıştır. Oyunun hikayesi ve geçtiği çevre hakkında fikirler oluşturulmuştur. Üyelerin okul finalleri nedeniyle bu sprintte planlanan 100 puan yerine 60 puana ulaşılabilmiştir. Bu farkın Sprint 2 ve Sprint 3'de kapatılması için ekstra puanlar eklenmesine karar verilmiştir. Katılımcılar: Elif Cebeci, Mehmet SAVRAN, Ahmet Özdemir Akçay, Hakkı Tumar, Onur Şentürk.
 * Sprint Retrospective:
    - Sprint 1'in üyelerin finallerinden dolayı aksaması nedeniyle gelecek Sprint 2 ve Sprint 3'de daha fazla aktif olması gerektiği kararlaştırılmıştır.
