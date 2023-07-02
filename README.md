@@ -62,7 +62,19 @@ Diğer oyuncuları vurmak için Roket atma özelliği.
 ## Sprint 2 Burndown Chart
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20Burndown%20Chart.png)
 ## Oyun Ekran Görüntüleri
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Multiplayer%20Buttons.png)
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Multiplayer%20Game.png)
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/KartGIF.gif)
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/RocketGIF.gif)
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Multiplayer%20Game.png)\
+Online multiplayer ile başka oyuncular ile oyunu oynama.
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Multiplayer%20Buttons.png)\
+Multiplayer için Host ve Client butonları ve Lobby ID'si.
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/KartGIF.gif)\
+Oyun için Blockbench uygulamasında oluşturulan Kart asseti.
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/RocketGIF.gif)\
+Oyun için Blockbench uygulamasında oluşturulan Rocket asseti.
+* Sprint Notları:
+   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle yüklenememiştir. Gelecek Sprint sonuna kadar Git Large File Storage ile dosyalar yüklenecektir.
+   - Sprint 2'de zamanın büyük çoğunluğu oyununa multiplayer mekanikleri eklemek ve görsel assetler oluşturmak için harcanmıştır.
+* Sprint Review: Oyunun Multiplayer mekanikleri oluşturulmuştur. Oyunun görsel bütünlüğünü oluşturmak için görsel assetler üretilmeye başlanmıştır. 
+* Sprint Retrospective:
+   - 
+---
+# Sprint 3
