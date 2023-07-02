@@ -63,7 +63,7 @@ Diğer oyuncuları vurmak için Roket atma özelliği.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20Burndown%20Chart.png)
 ## Oyun Ekran Görüntüleri
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Multiplayer%20Game.png)\
-Online multiplayer ile başka oyuncular ile oyunu oynama.
+Online multiplayer ile başka oyuncular ile oyunu oynama.\
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Multiplayer%20Buttons.png)\
 Multiplayer için Host ve Client butonları ve Lobby ID'si.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/KartGIF.gif)\
