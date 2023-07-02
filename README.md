@@ -57,4 +57,7 @@ Diğer oyuncuları vurmak için Roket atma özelliği.
 * Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İkinci sprint için 100 puanın yeterli olduğuna karar verimişti ancak ilk sprintten kalan 40 puanlık açığı telafi etmek için ikinci sprint'e 20 puan fazladan eklenmiştir.
 * Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
-## Sprint 1 Backlog Board
+## Sprint 2 Backlog Board
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20backlog.png)
+## Sprint 2 Burndown Chart
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20Burndown%20Chart.png)
