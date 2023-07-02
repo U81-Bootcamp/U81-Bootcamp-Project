@@ -29,7 +29,7 @@ Onur Şentürk	- Developer
 # Sprint 1
 * Sprint içinde her User Story 20 puan olarak hesaplanmıştır.
 * Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
-* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint'in için 100 puanın yeterli olduğuna karar verildi.
+* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint için 100 puanın yeterli olduğuna karar verildi.
 * Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi. Sesli olarak gerçekleştirilmeyen günler için gene Discord kanalı üzerinden konuşuldu. [Günlük Scrum Konuşmaları](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%20Daily%20talks.pdf)
 ## Sprint 1 Backlog Board
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint%201%20Board.png)
@@ -53,3 +53,8 @@ Diğer oyuncuları vurmak için Roket atma özelliği.
    - Sprint 1'in üyelerin finallerinden dolayı aksaması nedeniyle gelecek Sprint 2 ve Sprint 3'de daha fazla aktif olması gerektiği kararlaştırılmıştır.
 ---
 # Sprint 2
+* Sprint içinde genel User Story'ler 20 puan olarak hesaplanmıştır. Görsel asset üretme User Story'si 40 puan olarak hesaplanmıştır.
+* Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İkinci sprint için 100 puanın yeterli olduğuna karar verimişti ancak ilk sprintten kalan 40 puanlık açığı telafi etmek için ikinci sprint'e 20 puan fazladan eklenmiştir.
+* Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
+## Sprint 1 Backlog Board
