@@ -57,6 +57,9 @@ Diğer oyuncuları vurmak için Roket atma özelliği.
 * Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İkinci sprint için 100 puanın yeterli olduğuna karar verimişti ancak ilk sprintten kalan 40 puanlık açığı telafi etmek için ikinci sprint'e 20 puan fazladan eklenmiştir.
 * Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
+* Sprint Notları:
+   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle yüklenememiştir. Gelecek Sprint sonuna kadar Git Large File Storage ile dosyalar yüklenecektir.
+   - Sprint 2'de zamanın büyük çoğunluğu oyununa multiplayer mekanikleri eklemek ve görsel assetler oluşturmak için harcanmıştır. 
 ## Sprint 2 Backlog Board
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20backlog.png)
 ## Sprint 2 Burndown Chart
@@ -70,11 +73,9 @@ Multiplayer için Host ve Client butonları ve Lobby ID'si.
 Oyun için Blockbench uygulamasında oluşturulan Kart asseti.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/RocketGIF.gif)\
 Oyun için Blockbench uygulamasında oluşturulan Rocket asseti.
-* Sprint Notları:
-   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle yüklenememiştir. Gelecek Sprint sonuna kadar Git Large File Storage ile dosyalar yüklenecektir.
-   - Sprint 2'de zamanın büyük çoğunluğu oyununa multiplayer mekanikleri eklemek ve görsel assetler oluşturmak için harcanmıştır.
-* Sprint Review: Oyunun Multiplayer mekanikleri oluşturulmuştur. Oyunun görsel bütünlüğünü oluşturmak için görsel assetler üretilmeye başlanmıştır. 
+* Sprint Review: Oyunun Multiplayer mekanikleri oluşturulmuştur. Oyunun görsel bütünlüğünü oluşturmak için görsel assetler üretilmeye başlanmıştır. Oyunun hikayesi ve geçtiği harita üzerine çalışmalar yapılmıştır. Sprint 1'de yapılamadığı için Sprint 2'de yapılmayı beklenen fark kapatılmamıştır. Bu nedenle Sprint 3'te tüm üyelerin ekstra rol oynaması gerektiğine karar verilmiştir. Katılımcılar: Elif Cebeci, Mehmet SAVRAN, Ahmet Özdemir Akçay, Hakkı Tumar, Onur Şentürk.
 * Sprint Retrospective:
-   - 
+   - Sprint 3 için tüm üyelerin ekstra aktif olması ve geliştirme sürecine dahil olması kararlaştırılmıştır.
+   - Sprint 3 boyunca geliştirme süreçleri daha ortaktaşa bir şekilde yapılmasına karar verilmiştir.
 ---
 # Sprint 3
