@@ -7,9 +7,9 @@ Ahmet Özdemir Akçay	- Developer\
 Hakkı Tumar - Developer\
 Onur Şentürk	- Developer
 ## Ürün ismi
--Multiplayer Race/Endless runner Game- (İsim üstünde planlanılıyor)
+Retro Rampage Racers
 ## Ürün Açıklaması
--Multiplayer Race/Endless runner Game- oyunculara popüler Endless Runner ve Kart racing türlerini birleştirerek multiplayer bir deneyim ve eğlence sunmak için geliştirilmekte olan bir oyundur. Oyunda oyuncular rastgele oluşturulan engellerden kaçarken, diğer oyuncuların kullanabileceği Roket ya da Buz gibi silahlara dikkat etmesi gerekmektedir. Bir engele çarpıldığında ya da diğer oyuncular tarafından vurulduğunda oyuncular sıralamada arkaya düşerler. Birinci konumda olan oyuncunun kazanacağı bir kazanma mekanizması düşünülmüştür.
+Retro Rampage Racers oyunculara popüler Endless Runner ve Kart racing türlerini birleştirerek multiplayer bir deneyim ve eğlence sunmak için geliştirilmekte olan bir oyundur. Oyunda oyuncular rastgele oluşturulan engellerden kaçarken, diğer oyuncuların kullanabileceği Roket ya da Buz gibi silahlara dikkat etmesi gerekmektedir. Bir engele çarpıldığında ya da diğer oyuncular tarafından vurulduğunda oyuncular sıralamada arkaya düşerler. Birinci konumda olan oyuncunun kazanacağı bir kazanma mekanizması düşünülmüştür.
 ## Ürün Özellikleri
 * Unity 3D ile yapılmıştır.
 * Multiplayer desteği vardır.
@@ -22,6 +22,7 @@ Onur Şentürk	- Developer
 * Multiplayer oyun oynayan arkadaş grupları.
 * Mobil oyun oyuncuları.
 * Yarış oyunu oyuncuları.
+* Retro oyun severler.
 ## Ürün Backlog
 [Miro Backlog Board](https://miro.com/app/board/uXjVMBXI-IA=/)
 
