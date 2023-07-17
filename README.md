@@ -87,4 +87,6 @@ Oyun için Blockbench uygulamasında oluşturulan Rocket asseti.
 * Sprint Notları:
    - Sprint 3 Oyun dosyaları, dosyaların büyüklüğü nedeniyle github'a yüklenememiştir. Github yerine Google Drive'a yüklenmiştir. [Oyun Dosyaları Google Drive Linki](https://drive.google.com/drive/u/1/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD)
 ## Sprint 3 Backlog Board
-![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20backlog.png)
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint3/Sprint%203%20backlog.png)
+## Sprint 3 Burndown Chart
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint3/Sprint%203%20burndown.png)
