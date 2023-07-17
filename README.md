@@ -84,5 +84,5 @@ Oyun için Blockbench uygulamasında oluşturulan Rocket asseti.
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Üçüncü sprint için 100 puanın yeterli olduğuna karar verimişti ancak birinci ve ikinci sprintten kalan açığı telafi etmek için üçüncü sprint'e 40 puan fazladan eklenmiştir.
 * Günlük Scrum: Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
 * * Sprint Notları:
-   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle github'a yüklenememiştir. ![Alt text](https://drive.google.com/drive/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD?usp=sharing)
+   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle github'a yüklenememiştir. [Oyun Dosyaları Google Drive Linki](https://drive.google.com/drive/u/1/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD)
    - Sprint 2'de zamanın büyük çoğunluğu oyununa multiplayer mekanikleri eklemek ve görsel assetler oluşturmak için harcanmıştır. 
