@@ -85,4 +85,6 @@ Oyun için Blockbench uygulamasında oluşturulan Rocket asseti.
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Üçüncü sprint için 100 puanın yeterli olduğuna karar verimişti ancak birinci ve ikinci sprintten kalan açığı telafi etmek için üçüncü sprint'e 40 puan fazladan eklenmiştir.
 * Günlük Scrum: Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
 * Sprint Notları:
-   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle github'a yüklenememiştir. Github yerine Google Drive'a yüklenmiştir. [Oyun Dosyaları Google Drive Linki](https://drive.google.com/drive/u/1/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD)
+   - Sprint 3 Oyun dosyaları, dosyaların büyüklüğü nedeniyle github'a yüklenememiştir. Github yerine Google Drive'a yüklenmiştir. [Oyun Dosyaları Google Drive Linki](https://drive.google.com/drive/u/1/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD)
+## Sprint 3 Backlog Board
+![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint2/Sprint2%20backlog.png)
