@@ -28,7 +28,7 @@ Onur Şentürk	- Developer
 ---
 # Sprint 1
 * Sprint içinde her User Story 20 puan olarak hesaplanmıştır.
-* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan.
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprint için 100 puanın yeterli olduğuna karar verildi.
 * Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi. Sesli olarak gerçekleştirilmeyen günler için gene Discord kanalı üzerinden konuşuldu. [Günlük Scrum Konuşmaları](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint1/Sprint1%20Daily%20talks.pdf)
 ## Sprint 1 Backlog Board
@@ -54,7 +54,7 @@ Diğer oyuncuları vurmak için Roket atma özelliği.
 ---
 # Sprint 2
 * Sprint içinde genel User Story'ler 20 puan olarak hesaplanmıştır. Görsel asset üretme User Story'si 40 puan olarak hesaplanmıştır.
-* Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+* Sprint içinde tamamlanması tahmin edilen puan: 120 Puan.
 * Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İkinci sprint için 100 puanın yeterli olduğuna karar verimişti ancak ilk sprintten kalan 40 puanlık açığı telafi etmek için ikinci sprint'e 20 puan fazladan eklenmiştir.
 * Günlük Scrum: Günlük Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
 * Sprint Notları:
@@ -79,3 +79,10 @@ Oyun için Blockbench uygulamasında oluşturulan Rocket asseti.
    - Sprint 3 boyunca geliştirme süreçleri daha ortaktaşa bir şekilde yapılmasına karar verilmiştir.
 ---
 # Sprint 3
+* Sprint içinde genel User Story'ler 20 puan olarak hesaplanmıştır.
+* Sprint içinde tamamlanması tahmin edilen puan: 100 Puan.
+* Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Üçüncü sprint için 100 puanın yeterli olduğuna karar verimişti ancak birinci ve ikinci sprintten kalan açığı telafi etmek için üçüncü sprint'e 40 puan fazladan eklenmiştir.
+* Günlük Scrum: Scrum toplantıları Discord üzerinden sesli olarak gerçekleştirildi.
+* * Sprint Notları:
+   - Sprint 2 Oyun dosyaları, dosyaların büyüklüğü nedeniyle github'a yüklenememiştir. ![Alt text](https://drive.google.com/drive/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD?usp=sharing)
+   - Sprint 2'de zamanın büyük çoğunluğu oyununa multiplayer mekanikleri eklemek ve görsel assetler oluşturmak için harcanmıştır. 
