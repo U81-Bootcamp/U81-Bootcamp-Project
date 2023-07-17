@@ -99,3 +99,6 @@ Multiplayer için Host ve Client butonları.
 Oyun içi görüntüsü.
 ![Alt text](https://github.com/U81-Bootcamp/U81-Bootcamp-Project/blob/main/ProjectManagement/Sprint3/Oyun%204.png)\
 Oyun multiplayer özelliği ile birlikte oynama.
+* Sprint Review: Oyunun görsel bütünlüğü sağlanmıştır. Retro efektler kullanılması kararlaştırılmıştır. Sprint 3'te üyelerin katılımı yetersiz olduğu için istenilen puan hedefine ulaşılamamıştır. Katılımcılar: Mehmet SAVRAN.
+* Sprint Retrospective:
+   - Sprint 3 içinde üyelerin geliştirme sürecine yeterince katılmaması nedeniyle istenilen puanlara ulaşılamamıştır.
