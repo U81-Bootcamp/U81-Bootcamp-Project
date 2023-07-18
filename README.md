@@ -16,7 +16,7 @@ Retro Rampage Racers oyunculara popüler Endless Runner ve Kart racing türlerin
 * Başka oyuncular ile yarışabilmeye olanak sağlar.
 * Singleplayer modu.
 * Oyun skoru tutabilme.
-* Retro Grafikler
+* Retro Grafikler ile oluşturulmuştur.
 ## Hedef Kitle
 * 7-35 yaş aralığı oyuncular.
 * Multiplayer oyun oynayan arkadaş grupları.
