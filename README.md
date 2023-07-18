@@ -1,5 +1,5 @@
 # U81-Bootcamp-Project
-Oyun ve Uygulama Akademisi Bootcamp 2023 için geliştirilen oyun projesi.
+Oyun ve Uygulama Akademisi Bootcamp 2023 için geliştirilen oyun projesi. Oyun dosyaları dosyaların büyüklüğü nedeniyle Github yerine Google Drive'a yüklenmiştir. [Oyun Dosyaları Google Drive Linki](https://drive.google.com/drive/u/1/folders/1jipddOWZclzO2LbR3rZKdlYxLvVaAvzD)
 ## Takım U-81
 Elif Cebeci	- Product Owner\
 Mehmet SAVRAN	- Scrum Master\
